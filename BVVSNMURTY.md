@@ -17,9 +17,11 @@ import pandas as pd
 
 BMI=pd.DataFrame(columns=["Gender","HeightCm","WeightKg"])
 
+
 for i in range(0,len(data)):
 
     currentitem= data[i]
+    
     
 BMI.loc[i]=[data[i]["Gender"],data[i]["HeightCm"],data[i]["WeightKg"]]
 
