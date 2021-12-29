@@ -1,4 +1,5 @@
 import json
+
 data =({'Gender': 'Male', 'HeightCm': 171, 'WeightKg': 96},
 
 {'Gender': 'Male', 'HeightCm': 161, 'WeightKg': 85},
