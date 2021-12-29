@@ -36,6 +36,7 @@ BMI
 # Total Overweight(Question 2) #
 
 Totaloverweight =list(BMI['BMI Category']).count('Overweight')
+
 Totaloverweight 
 
 # Frequency Table for BMI Category (Additional) #
